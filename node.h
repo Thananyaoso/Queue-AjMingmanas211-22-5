@@ -49,7 +49,7 @@ void NODE::set_next(NODE *t){
 }
 
 NODE::~NODE(){
-	 //cout<<"Serving order " <<ord_number<<endl;
+
 }
 
 

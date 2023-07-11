@@ -8,7 +8,7 @@ public:
   void enqueue(int x, int y);
   int dequeue();
   Queue();
-  ~Queue(); // dequeue all
+  ~Queue(); 
 };
 
 Queue::Queue(){
